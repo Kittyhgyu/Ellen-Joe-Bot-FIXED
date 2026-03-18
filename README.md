@@ -217,17 +217,6 @@ No te quedes fuera del futuro digital
 ╰══════⊂(^(工)^)⊃══════╯
 
 
----
-
-## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 Ellen Joe
-
-
-<a href="https://github.com/nevi-dev"><img src="https://github.com/nevi-dev.png" width="250" height="250" alt="Nevi"/></a>
-
----
-
-### **🌺` Colaboradores Especiales `🌟**
-<a href="https://github.com/Dioneibi-rip" style="display:inline-block; text-decoration: none;">
     <img src="https://github.com/Dioneibi-rip.png" width="130" height="130" alt="Dioneibi" style="border-radius: 50%;"/>
 </a>
 
