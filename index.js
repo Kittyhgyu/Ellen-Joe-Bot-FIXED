@@ -1,3 +1,4 @@
+import './server.js'
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '1'
 import './settings.js'
 import { setupMaster, fork } from 'cluster'
