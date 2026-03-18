@@ -529,3 +529,15 @@ return phoneUtil.isValidNumber(parsedNumber)
 } catch (error) {
 return false
 }}
+
+import express from 'express'
+
+const app = express()
+
+app.get('/', (req, res) => {
+  res.send('Bot funcionando ✅')
+})
+
+app.listen(PORT, () => {
+  console.log('Servidor web activo en puerto', PORT)
+})
